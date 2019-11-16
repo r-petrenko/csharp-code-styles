@@ -1,2 +1,4 @@
-# csharp-code-styles
-shared c# code styles 
+# Motivation
+What, why and how
+
+# [async]([Async](https://github.com/r-petrenko/csharp-code-styles/blob/master/async.md))
